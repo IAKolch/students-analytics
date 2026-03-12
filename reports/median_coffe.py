@@ -1,7 +1,8 @@
-from reports.base import Report
-from typing import List, Dict, Any, Tuple
-from collections import defaultdict
 import statistics
+from collections import defaultdict
+from typing import Any, Dict, List, Tuple
+
+from reports.base import Report
 
 
 class MedianCoffeeReport(Report):

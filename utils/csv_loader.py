@@ -1,6 +1,6 @@
-import sys
 import csv
-from typing import List, Dict
+import sys
+from typing import Dict, List
 
 
 def read_csv_files(file_paths: List[str]) -> List[Dict[str, str]]:
