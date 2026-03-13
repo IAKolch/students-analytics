@@ -7,7 +7,7 @@
 
 2) Реализуйте методы name, calculate, headers
 
-3) Зарегистрируйте в фабрике в __init__.py пакета reports
+3) Зарегистрируйте новый класс отчета в фабрике в <u>  <u>init<u>  <u>.py пакета reports
 
 ## Пример запуска
 `python3 main.py --files data/math.csv data/physics.csv data/programming.csv --report median-coffee`
