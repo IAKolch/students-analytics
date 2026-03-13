@@ -12,4 +12,4 @@
 ## Пример запуска
 `python3 main.py --files data/math.csv data/physics.csv data/programming.csv --report median-coffee`
 
-![Image alt](https://github.com/IAKolch/students-analytics/raw/main/assets/image.png)
+![Пример запуска](assets/images/cli-example.png)
