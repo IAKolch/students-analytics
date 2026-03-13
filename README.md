@@ -12,4 +12,4 @@
 ## Пример запуска
 `python3 main.py --files data/math.csv data/physics.csv data/programming.csv --report median-coffee`
 
-![Пример запуска](assets/images/cli-example.png)
+![Пример запуска](assets/images/image.png)
